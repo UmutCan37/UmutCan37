@@ -89,17 +89,6 @@ Modül özelleştirme, yeni modül geliştirme, XML & Python ile form ve rapor d
 
 ---
 
-## 📊 GitHub İstatistiklerim
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UmutCan37&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UmutCan37&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UmutCan37&theme=tokyo-night)
-
----
-
 ## 🎯 Kariyer Hedefim
 Backend odaklı çalışarak API geliştirme, veritabanı yönetimi ve iş kuralları içeren sistemlerde uzmanlaşmak; kurumsal ölçekte projelerde sorumluluk alan bir yazılım geliştirici olmak.
 
