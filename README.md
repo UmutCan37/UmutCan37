@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Merhaba, ben Umut Can Yavru
 
-<!--
-**UmutCan37/UmutCan37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bilgisayar Mühendisiyim  
+💻 .NET Full Stack Developer eğitimi alıyorum  
+📍 İstanbul, Türkiye
 
-Here are some ideas to get you started:
+## 🚀 Hakkımda
+Backend ağırlıklı çalışmayı seven, ölçeklenebilir ve sürdürülebilir yazılımlar geliştirmeyi hedefleyen bir yazılım geliştiriciyim.  
+Öğrencilik ve staj dönemlerimde ASP.NET, C#, Python ve veritabanı teknolojileri ile gerçek projelerde görev aldım.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Aldığım Eğitim
+- **.NET Full Stack Developer Eğitimi**
+  - ASP.NET MVC
+  - ASP.NET Web API
+  - Entity Framework
+  - SQL & Veritabanı Yönetimi
+  - Katmanlı Mimari
+  - RESTful API
+
+## 🔧 Kullandığım Teknolojiler
+- **Backend:** C#, ASP.NET, Entity Framework, Python  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Veritabanı:** SQL, PostgreSQL, MongoDB  
+- **Araçlar:** Git, Odoo, REST API
+
+## 💼 Staj Deneyimleri
+- **İETT** – Full Stack Developer Stajyer  
+- **Tiryaki Agro** – Full Stack Developer Stajyer  
+- **Dorak Holding** – Python Developer Stajyer  
+
+## 🎯 Hedefim
+.NET ekosisteminde uzmanlaşarak backend ağırlıklı, güvenli ve performanslı sistemler geliştiren bir Full Stack Developer olmak.
+
+## 📫 İletişim
+- 📧 Mail: umutcanyavru@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/umut-can-yavru-792b5723a
+
+⭐ GitHub profilime hoş geldin!
+
