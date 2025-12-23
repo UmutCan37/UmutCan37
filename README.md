@@ -28,26 +28,24 @@ Temiz kod, sürdürülebilir mimari ve takım çalışmasına önem veren bir ya
 ASP.NET Core ekosisteminde uçtan uca uygulama geliştirme üzerine yoğun uygulamalı eğitim:
 
 #### Backend & Mimari
-- ASP.NET Core MVC & Web API  
-- Tek Katmanlı & N Katmanlı Mimari  
-- Onion Architecture  
-- Entity Framework (DbFirst / CodeFirst)  
-- Dapper ile büyük veri setleri  
-- CQRS + MediatR + Chain of Responsibility  
-- Identity & JWT Authentication  
-- Rapid API Entegrasyonu  
+- Backend uygulama geliştirme ve servis tasarımı (Web API)
+- Tek Katmanlı, N Katmanlı ve Onion Architecture
+- İş kuralları ve servis katmanı geliştirme
+- ORM ve veri erişim katmanı tasarımı (Entity Framework – DbFirst / CodeFirst)
+- Dapper ile yüksek performanslı veri erişimi
+- CQRS + MediatR + Chain of Responsibility
+- Kimlik doğrulama ve yetkilendirme (JWT, token bazlı güvenlik)
+- Harici servis ve API entegrasyonları
+- ERP ve kurumsal sistemlerde backend geliştirme deneyimi
 
 #### Veritabanı
-- SQL
+- SQL tabanlı ilişkisel veritabanları
 - PostgreSQL
-- MongoDB
-
-
+- MongoDB (NoSQL)
 
 #### Frontend
 - HTML, CSS, JavaScript
 - React.js
-
 
 ---
 
@@ -55,8 +53,10 @@ ASP.NET Core ekosisteminde uçtan uca uygulama geliştirme üzerine yoğun uygul
 
 ### Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-6DB33F?style=for-the-badge&logo=swagger&logoColor=white)
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
